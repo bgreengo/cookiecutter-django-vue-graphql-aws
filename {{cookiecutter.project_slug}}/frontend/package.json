@@ -13,7 +13,7 @@
     "js-cookie": "^2.2.1",
     "register-service-worker": "^1.5.2",
     "@sentry/browser": "5.14.2",
-    "@sentry/integrations": "5.14.2",
+    "@sentry/integrations": "5.26.0",
     "vee-validate": "3.2.3",
     "vue": "2.6.11",
     "vue-apollo": "^3.0.0-beta.20",
